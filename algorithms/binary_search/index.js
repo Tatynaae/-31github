@@ -22,3 +22,4 @@ const my_list = [1, 3, 5, 7, 9];
 
 console.log(binary_search(my_list, 3)); // 1
 console.log(binary_search(my_list, -1)); // null
+
